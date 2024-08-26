@@ -1,3 +1,3 @@
 This is file 1 on the branchNumber1.
 I am adding a change that isnt on main.
-I am changing on main at same time as b1.
+I am making a change on b1 at same time as main.
